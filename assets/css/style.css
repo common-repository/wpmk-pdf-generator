@@ -1,0 +1,46 @@
+.wpmk-pdf-main{
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 20px;
+    padding: 15px;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+.wpmk-pdf-section-title{
+    padding: 5px;
+    background: #EDEDED;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    color: #000000;
+    font-weight: bold;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+.wpmk-pdf-btn-box{
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+.wpmk-pdf-input{
+    float: left;
+    margin-right: 5px;
+}
+.wpmk-pdf-label{
+    float: left;
+    color: #000000;
+    position: relative;
+    top: -3px;
+}
+.wpmk-pdf-icon-set{
+    overflow: hidden;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #EDEDED;
+}
+.wpmk-pdf-icon-box{
+    float: left;
+    margin-right: 10px;
+}
+.btn-pdf-input{
+    
+}
